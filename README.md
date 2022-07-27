@@ -1,4 +1,4 @@
-# esphome_shelly_dallas_fork
+# Shelly Dallas Temperature Add-On for ESPHome
 Experimental Fork of Shelly Dallas Temperature for ESPHome by persuader72
 
 Since the last version by persuader hasn't been compatible to the current Branch of ESPHome I tried to make some corrections inside the Code, to make it work.
